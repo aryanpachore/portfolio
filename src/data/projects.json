@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "Coding Contest Hosting Webapp",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "",
+    "skills": ["React", "Express", "MongoDb"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/aryanpachore/To-Do"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Todo-app",
+    "imageSrc": "projects/proj2.png",
+    "description": "",
+    "skills": ["React", "Express", "Node", "MoongoDb"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/aryanpachore/To-Do"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Expense Manager App",
+    "imageSrc": "projects/proj3.png",
+    "description": "",
+    "skills": ["HTML", "CSS", "Js"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

@@ -1,28 +1,28 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "role": "leetcode",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["Earned 50 Days Badge on leetcode", "Solved 100+ problems on letcode"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "Smart India Hackathon",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": ["Qualified the internal rounds of SIH of our university", "Stood 32nd in 130 Teams"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Courses",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "DSA",
+      "Bits and Bytes of Computer Networks"
     ],
     "imageSrc": "history/netflix.png"
   }
